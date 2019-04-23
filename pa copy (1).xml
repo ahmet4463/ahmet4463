@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://https://doc-04-a4-docs.googleusercontent.com/docs/securesc/fnor82k8ebsirrarhpb99kuqo5jqtj3e/f4iv3fun9v6gbq1hgm3dlfe3fu2lkar2/1556006400000/01724495300306180159/01724495300306180159/1HJ3aqRVIQKVOLNvmQowmjQcRN9jssb_u?e=download&nonce=j7u3vl1i82jje&user=01724495300306180159&hash=1qm939vr731mfvh54tloarmb95rf14ne</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>org.tihmstar.h3lix</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Beta PUBG Mobile</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
